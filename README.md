@@ -11,7 +11,9 @@
 
 
 ### my github status
-![gojaebeom's github stats](https://github-readme-stats.vercel.app/api?username=gojaebeom&show_icons=true&theme=merko)
-###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojaebeom&layout=compact&theme=merko)
+<div style="display:flex;align-items:flex-start;width:100%;height:100px;border:1px solid black;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gojaebeom&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gojaebeom&layout=compact" style="height:100%; border:1px solid black;"/>
+</div>
+
 
